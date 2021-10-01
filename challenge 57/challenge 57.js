@@ -4,6 +4,7 @@ var list = ["Yellow", "red", "pink", "blue", "orange", "cyan", "black", "violet"
     start = parseInt(prompt("Enter a starting number: "));
     end = parseInt(prompt("Enter an end number: "));
     cut = list.slice(start, end);
-console.log(cut)
+console.log(cut);
+
 
 
